@@ -63,7 +63,7 @@ height: 50px;
 }
 .login_body button{
     height: 50px;
-    height: 100%;
+    width: 100%;
     color: #fff;
     background-color: #e50914;
     border-radius: 5px;
@@ -74,3 +74,60 @@ height: 50px;
     
 
 }
+.suporte{
+    display: flex;
+    color: #b3b3b3;
+    justify-content: space-between;
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+.lembrar{
+    display: flex;
+    align-items: center;
+}
+.lembrar span{
+        margin-right: 5px;
+        height: 25px;
+}
+.suporte input{
+    width: 15px;
+    width: 15px;
+}
+.ajuda a{
+text-decoration: none;
+color: #737373;
+}
+.ajuda a:hover{
+    text-decoration: underline;
+     
+}
+.cadastrar{
+    color: #737373;
+    font-size: 16px;
+
+}
+.cadastrar a{
+color: #fff;
+font-size: 16px;
+text-decoration:none;
+}
+.cadastrar a:hover{
+    text-decoration: underline;
+
+}
+.termo{
+    color: #737373;
+    font-size: 13px;
+
+}
+   .termo a{
+    text-decoration: none;
+    color: #0071eb;
+
+   }
+   .termo a:hover{
+    text-decoration: underline;
+
+   }
+   
+
